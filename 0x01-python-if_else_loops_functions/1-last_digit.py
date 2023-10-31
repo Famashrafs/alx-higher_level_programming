@@ -8,5 +8,5 @@ if mod > 5:
     print("greater than 5")
 elif mod == 0:
     print("0")
-else: 
+else:
     print("less than 6 and not 0")
